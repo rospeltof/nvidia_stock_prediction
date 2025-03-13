@@ -21,15 +21,25 @@ La estructura del repositorio es la siguiente:
 
 nvidia_stock_prediction/
 ├── Dockerfile
+
 ├── README.md
+
 ├── requirements.txt
-├── mlruns/              # Carpeta para experimentos MLflow (se genera y actualiza)
+
+├── mlruns/      # Carpeta para experimentos MLflow (se genera y actualiza)
+
 ├── src/
+
 │   ├── train_baseline.py  # Script de entrenamiento del modelo (regresión lineal)
+
 │   └── run_pipeline.py    # Pipeline de inferencia end-to-end (descarga, TA, preprocesamiento, predicción)
+
 ├── notebooks/            # Notebooks de experimentación y desarrollo
+
 └── data/
+
     ├── ABTs/            # Archivos de ABT generados durante el preprocesamiento
+    
     └── predicciones/    # Resultados de las predicciones
 
 Requerimientos
