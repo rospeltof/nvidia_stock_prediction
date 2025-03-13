@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rospel/Desktop/prueba_tecnica_finaipro/nvidia_stock_prediction/notebooks/../mlruns/155031409834142308/b38600de3d124bd6a29a0a1287169231/artifacts
+end_time: 1741892250005
+entry_point_name: ''
+experiment_id: '155031409834142308'
+lifecycle_stage: active
+run_id: b38600de3d124bd6a29a0a1287169231
+run_name: blushing-crab-971
+run_uuid: b38600de3d124bd6a29a0a1287169231
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741892248680
+status: 3
+tags: []
+user_id: rospel

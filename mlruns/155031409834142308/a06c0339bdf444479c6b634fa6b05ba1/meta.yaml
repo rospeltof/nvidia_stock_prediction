@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rospel/Desktop/prueba_tecnica_finaipro/nvidia_stock_prediction/notebooks/../mlruns/155031409834142308/a06c0339bdf444479c6b634fa6b05ba1/artifacts
+end_time: 1741892251370
+entry_point_name: ''
+experiment_id: '155031409834142308'
+lifecycle_stage: active
+run_id: a06c0339bdf444479c6b634fa6b05ba1
+run_name: adaptable-shad-558
+run_uuid: a06c0339bdf444479c6b634fa6b05ba1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741892250092
+status: 3
+tags: []
+user_id: rospel

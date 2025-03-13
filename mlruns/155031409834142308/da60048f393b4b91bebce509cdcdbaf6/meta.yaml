@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rospel/Desktop/prueba_tecnica_finaipro/nvidia_stock_prediction/notebooks/../mlruns/155031409834142308/da60048f393b4b91bebce509cdcdbaf6/artifacts
+end_time: 1741892255830
+entry_point_name: ''
+experiment_id: '155031409834142308'
+lifecycle_stage: active
+run_id: da60048f393b4b91bebce509cdcdbaf6
+run_name: overjoyed-loon-122
+run_uuid: da60048f393b4b91bebce509cdcdbaf6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741892254593
+status: 3
+tags: []
+user_id: rospel

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rospel/Desktop/prueba_tecnica_finaipro/nvidia_stock_prediction/mlruns/155031409834142308/b6caad3cb1494e30aa63e891d28cf32a/artifacts
+end_time: 1741891980765
+entry_point_name: ''
+experiment_id: '155031409834142308'
+lifecycle_stage: active
+run_id: b6caad3cb1494e30aa63e891d28cf32a
+run_name: Baseline_Linear_Regression
+run_uuid: b6caad3cb1494e30aa63e891d28cf32a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741891979178
+status: 3
+tags: []
+user_id: rospel

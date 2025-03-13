@@ -6,6 +6,7 @@ import yfinance as yf
 import ta  
 import mlflow
 import mlflow.sklearn
+import pickle
 
 class DataProcessor(object):
     def __init__(self):
@@ -65,7 +66,7 @@ def download_and_prepare_data(tickers, start_date, end_date):
 
 def main():
     # Fijamos manualmente la fecha de fin para pruebas
-    end_date = "2025-03-12"  
+    end_date = "2025-03-12"  #Fecha a la que quieres predecir
     start_date = (datetime.strptime(end_date, "%Y-%m-%d") - timedelta(days=60)).strftime("%Y-%m-%d")
     
     tickers = ['NVDA', '^GSPC', 'SMH']
@@ -84,21 +85,26 @@ def main():
     
     X_new = data_processed[features].copy()
     
-    # Cargar el modelo final registrado en MLflow. 
-    # Reemplaza <RUN_ID> con el identificador real del run donde se guardó el modelo.
-    model_uri = "runs:/<926805478441575022>/model"
-    model = mlflow.sklearn.load_model(model_uri)
+    current_dir = os.path.dirname(os.path.abspath(__file__))
+    model_path = os.path.join(current_dir, "..", "models", "lr_model.pkl")
+    print("Ruta del modelo:", model_path)
+    with open(model_path, "rb") as f:
+        lr_model = pickle.load(f)
     
     # Realizar la predicción
-    predictions = model.predict(X_new)
+    predictions = lr_model.predict(X_new)
     print("Predicciones:")
     print(predictions)
     
-    # Guardar las predicciones en un CSV
+    
+    X_new['Prediction_Date'] = data_processed['Date'].values
+
+    # Ahora guardamos el CSV con la columna de fecha incluida
     output_path = os.path.join('..', 'data', 'predicciones', f"predicciones_{end_date}.csv")
-    X_new['Predicted'] = predictions
+    X_new['Predicted_Close_Next_Day'] = predictions
     X_new.to_csv(output_path, index=False)
     print("Predicciones guardadas en:", output_path)
 
 if __name__ == "__main__":
+    mlflow.set_tracking_uri("file:../mlruns")
     main()

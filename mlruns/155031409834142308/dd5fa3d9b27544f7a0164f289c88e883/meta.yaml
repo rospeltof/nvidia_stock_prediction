@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rospel/Desktop/prueba_tecnica_finaipro/nvidia_stock_prediction/notebooks/../mlruns/155031409834142308/dd5fa3d9b27544f7a0164f289c88e883/artifacts
+end_time: 1741892216525
+entry_point_name: ''
+experiment_id: '155031409834142308'
+lifecycle_stage: active
+run_id: dd5fa3d9b27544f7a0164f289c88e883
+run_name: flawless-sheep-335
+run_uuid: dd5fa3d9b27544f7a0164f289c88e883
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741892215362
+status: 3
+tags: []
+user_id: rospel

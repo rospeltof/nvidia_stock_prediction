@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rospel/Desktop/prueba_tecnica_finaipro/nvidia_stock_prediction/notebooks/../mlruns/155031409834142308/96989982860646b0a0892db0b4cc33d5/artifacts
+end_time: 1741892229042
+entry_point_name: ''
+experiment_id: '155031409834142308'
+lifecycle_stage: active
+run_id: 96989982860646b0a0892db0b4cc33d5
+run_name: amusing-steed-266
+run_uuid: 96989982860646b0a0892db0b4cc33d5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741892227846
+status: 3
+tags: []
+user_id: rospel

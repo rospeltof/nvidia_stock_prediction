@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rospel/Desktop/prueba_tecnica_finaipro/nvidia_stock_prediction/notebooks/../mlruns/155031409834142308/2ecc6c7bacfe44e29d11007420c0920f/artifacts
+end_time: 1741892240095
+entry_point_name: ''
+experiment_id: '155031409834142308'
+lifecycle_stage: active
+run_id: 2ecc6c7bacfe44e29d11007420c0920f
+run_name: crawling-fish-588
+run_uuid: 2ecc6c7bacfe44e29d11007420c0920f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741892238888
+status: 3
+tags: []
+user_id: rospel

@@ -1,0 +1,43 @@
+artifact_path: model
+flavors:
+  catboost:
+    catboost_version: 1.2.5
+    code: null
+    data: model.cb
+    model_type: CatBoostRegressor
+    save_format: cbm
+  python_function:
+    data: model.cb
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.catboost
+    python_version: 3.11.9
+is_signature_from_type_hint: false
+mlflow_version: 2.20.3
+model_size_bytes: 517495
+model_uuid: 50185c6258ef482086c0d97e2d44d493
+run_id: 8f1dd96946bb4b92aad61732d2fede53
+saved_input_example_info:
+  artifact_path: input_example.json
+  pandas_orient: split
+  serving_input_path: serving_input_example.json
+  type: dataframe
+signature:
+  inputs: '[{"type": "double", "name": "Close_NVDA", "required": true}, {"type": "double",
+    "name": "High_NVDA", "required": true}, {"type": "double", "name": "Low_NVDA",
+    "required": true}, {"type": "double", "name": "Open_NVDA", "required": true},
+    {"type": "double", "name": "Volume_NVDA", "required": true}, {"type": "double",
+    "name": "Close_SMH", "required": true}, {"type": "double", "name": "Close_^GSPC",
+    "required": true}, {"type": "double", "name": "Volume_SMH", "required": true},
+    {"type": "double", "name": "Volume_^GSPC", "required": true}, {"type": "double",
+    "name": "rsi", "required": true}, {"type": "double", "name": "macd", "required":
+    true}, {"type": "double", "name": "macd_diff", "required": true}, {"type": "double",
+    "name": "stoch_k", "required": true}, {"type": "double", "name": "stoch_d", "required":
+    true}, {"type": "double", "name": "Month", "required": true}, {"type": "double",
+    "name": "Dayofweek", "required": true}, {"type": "double", "name": "Year", "required":
+    true}]'
+  outputs: '[{"type": "double", "required": true}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2025-03-13 18:56:51.332274'

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rospel/Desktop/prueba_tecnica_finaipro/nvidia_stock_prediction/notebooks/../mlruns/155031409834142308/62e8df5d31624bdf8ffe23b72a8b5925/artifacts
+end_time: 1741892275977
+entry_point_name: ''
+experiment_id: '155031409834142308'
+lifecycle_stage: active
+run_id: 62e8df5d31624bdf8ffe23b72a8b5925
+run_name: youthful-hound-127
+run_uuid: 62e8df5d31624bdf8ffe23b72a8b5925
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741892274775
+status: 3
+tags: []
+user_id: rospel
