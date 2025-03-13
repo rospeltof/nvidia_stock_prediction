@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rospel/Desktop/prueba_tecnica_finaipro/nvidia_stock_prediction/notebooks/mlruns/0/7ff069077bda4df6bf82fe72c1c6a9c4/artifacts
+end_time: 1741833767469
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7ff069077bda4df6bf82fe72c1c6a9c4
+run_name: adorable-foal-216
+run_uuid: 7ff069077bda4df6bf82fe72c1c6a9c4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741833767464
+status: 3
+tags: []
+user_id: rospel

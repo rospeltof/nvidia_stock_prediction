@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rospel/Desktop/prueba_tecnica_finaipro/nvidia_stock_prediction/notebooks/mlruns/0/24c48c76a96540ff84901e70cb506e0a/artifacts
+end_time: 1741833314273
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 24c48c76a96540ff84901e70cb506e0a
+run_name: invincible-fowl-430
+run_uuid: 24c48c76a96540ff84901e70cb506e0a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741833314268
+status: 3
+tags: []
+user_id: rospel

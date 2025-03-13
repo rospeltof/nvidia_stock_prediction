@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rospel/Desktop/prueba_tecnica_finaipro/nvidia_stock_prediction/notebooks/mlruns/0/ecfa077110d047908fbbf9f9a3dea437/artifacts
+end_time: 1741832229660
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ecfa077110d047908fbbf9f9a3dea437
+run_name: angry-cod-281
+run_uuid: ecfa077110d047908fbbf9f9a3dea437
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741832229654
+status: 3
+tags: []
+user_id: rospel

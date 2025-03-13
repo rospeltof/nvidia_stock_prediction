@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rospel/Desktop/prueba_tecnica_finaipro/nvidia_stock_prediction/notebooks/mlruns/0/0844825318a94f75855624c25aba0ab9/artifacts
+end_time: 1741835348556
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0844825318a94f75855624c25aba0ab9
+run_name: auspicious-elk-705
+run_uuid: 0844825318a94f75855624c25aba0ab9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741835348550
+status: 3
+tags: []
+user_id: rospel

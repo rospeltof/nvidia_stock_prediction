@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rospel/Desktop/prueba_tecnica_finaipro/nvidia_stock_prediction/notebooks/mlruns/0/e43ff5025e874b52bd3634a34ef86ffa/artifacts
+end_time: 1741836160104
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e43ff5025e874b52bd3634a34ef86ffa
+run_name: vaunted-calf-838
+run_uuid: e43ff5025e874b52bd3634a34ef86ffa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741836160097
+status: 3
+tags: []
+user_id: rospel

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rospel/Desktop/prueba_tecnica_finaipro/nvidia_stock_prediction/notebooks/mlruns/0/5fdd863ea6af4c648abc8a89f4fec0a5/artifacts
+end_time: 1741831083053
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5fdd863ea6af4c648abc8a89f4fec0a5
+run_name: exultant-fawn-281
+run_uuid: 5fdd863ea6af4c648abc8a89f4fec0a5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741831081746
+status: 3
+tags: []
+user_id: rospel

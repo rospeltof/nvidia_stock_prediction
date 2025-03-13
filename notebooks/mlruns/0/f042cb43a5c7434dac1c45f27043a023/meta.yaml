@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rospel/Desktop/prueba_tecnica_finaipro/nvidia_stock_prediction/notebooks/mlruns/0/f042cb43a5c7434dac1c45f27043a023/artifacts
+end_time: 1741830863107
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f042cb43a5c7434dac1c45f27043a023
+run_name: fortunate-flea-896
+run_uuid: f042cb43a5c7434dac1c45f27043a023
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741830861832
+status: 3
+tags: []
+user_id: rospel

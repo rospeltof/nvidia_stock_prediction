@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rospel/Desktop/prueba_tecnica_finaipro/nvidia_stock_prediction/notebooks/mlruns/0/8898a8fa3bc149318991c0c189f0e500/artifacts
+end_time: 1741831760740
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8898a8fa3bc149318991c0c189f0e500
+run_name: shivering-rat-22
+run_uuid: 8898a8fa3bc149318991c0c189f0e500
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741831760735
+status: 3
+tags: []
+user_id: rospel

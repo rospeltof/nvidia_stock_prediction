@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rospel/Desktop/prueba_tecnica_finaipro/nvidia_stock_prediction/notebooks/mlruns/0/6a741f0b553946e28ee7e77865108bef/artifacts
+end_time: 1741838886734
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6a741f0b553946e28ee7e77865108bef
+run_name: redolent-rook-258
+run_uuid: 6a741f0b553946e28ee7e77865108bef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741838886728
+status: 3
+tags: []
+user_id: rospel

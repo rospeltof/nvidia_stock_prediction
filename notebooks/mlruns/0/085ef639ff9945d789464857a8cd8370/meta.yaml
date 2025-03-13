@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rospel/Desktop/prueba_tecnica_finaipro/nvidia_stock_prediction/notebooks/mlruns/0/085ef639ff9945d789464857a8cd8370/artifacts
+end_time: 1741835776273
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 085ef639ff9945d789464857a8cd8370
+run_name: rumbling-panda-206
+run_uuid: 085ef639ff9945d789464857a8cd8370
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741835776266
+status: 3
+tags: []
+user_id: rospel

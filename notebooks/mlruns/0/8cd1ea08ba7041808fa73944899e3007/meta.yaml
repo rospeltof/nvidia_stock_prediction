@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rospel/Desktop/prueba_tecnica_finaipro/nvidia_stock_prediction/notebooks/mlruns/0/8cd1ea08ba7041808fa73944899e3007/artifacts
+end_time: 1741833420669
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8cd1ea08ba7041808fa73944899e3007
+run_name: stately-ape-729
+run_uuid: 8cd1ea08ba7041808fa73944899e3007
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741833420664
+status: 3
+tags: []
+user_id: rospel

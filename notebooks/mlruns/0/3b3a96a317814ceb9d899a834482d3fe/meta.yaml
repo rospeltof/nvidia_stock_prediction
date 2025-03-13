@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rospel/Desktop/prueba_tecnica_finaipro/nvidia_stock_prediction/notebooks/mlruns/0/3b3a96a317814ceb9d899a834482d3fe/artifacts
+end_time: 1741831063294
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3b3a96a317814ceb9d899a834482d3fe
+run_name: funny-shrimp-925
+run_uuid: 3b3a96a317814ceb9d899a834482d3fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741831062023
+status: 3
+tags: []
+user_id: rospel

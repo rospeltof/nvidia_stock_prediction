@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rospel/Desktop/prueba_tecnica_finaipro/nvidia_stock_prediction/notebooks/mlruns/0/bdb09eaa11324d2f8e5b008af301f3d6/artifacts
+end_time: 1741834538428
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bdb09eaa11324d2f8e5b008af301f3d6
+run_name: blushing-skink-325
+run_uuid: bdb09eaa11324d2f8e5b008af301f3d6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741834538423
+status: 3
+tags: []
+user_id: rospel

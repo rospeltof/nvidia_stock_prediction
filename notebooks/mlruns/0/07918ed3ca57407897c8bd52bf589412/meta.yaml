@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rospel/Desktop/prueba_tecnica_finaipro/nvidia_stock_prediction/notebooks/mlruns/0/07918ed3ca57407897c8bd52bf589412/artifacts
+end_time: 1741830833307
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 07918ed3ca57407897c8bd52bf589412
+run_name: flawless-tern-263
+run_uuid: 07918ed3ca57407897c8bd52bf589412
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741830832005
+status: 3
+tags: []
+user_id: rospel

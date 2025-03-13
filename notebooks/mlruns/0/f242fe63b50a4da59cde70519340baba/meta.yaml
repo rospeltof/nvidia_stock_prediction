@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rospel/Desktop/prueba_tecnica_finaipro/nvidia_stock_prediction/notebooks/mlruns/0/f242fe63b50a4da59cde70519340baba/artifacts
+end_time: 1741831002651
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f242fe63b50a4da59cde70519340baba
+run_name: flawless-hawk-380
+run_uuid: f242fe63b50a4da59cde70519340baba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741831001349
+status: 3
+tags: []
+user_id: rospel

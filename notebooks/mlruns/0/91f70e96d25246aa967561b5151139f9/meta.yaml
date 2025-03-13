@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rospel/Desktop/prueba_tecnica_finaipro/nvidia_stock_prediction/notebooks/mlruns/0/91f70e96d25246aa967561b5151139f9/artifacts
+end_time: 1741839026409
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 91f70e96d25246aa967561b5151139f9
+run_name: whimsical-mole-257
+run_uuid: 91f70e96d25246aa967561b5151139f9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741839026402
+status: 3
+tags: []
+user_id: rospel

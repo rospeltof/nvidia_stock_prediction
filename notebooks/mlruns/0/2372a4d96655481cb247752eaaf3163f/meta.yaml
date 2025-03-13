@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rospel/Desktop/prueba_tecnica_finaipro/nvidia_stock_prediction/notebooks/mlruns/0/2372a4d96655481cb247752eaaf3163f/artifacts
+end_time: 1741830777500
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2372a4d96655481cb247752eaaf3163f
+run_name: nimble-shoat-32
+run_uuid: 2372a4d96655481cb247752eaaf3163f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741830776226
+status: 3
+tags: []
+user_id: rospel

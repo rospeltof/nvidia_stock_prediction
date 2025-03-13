@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rospel/Desktop/prueba_tecnica_finaipro/nvidia_stock_prediction/notebooks/mlruns/0/8b353e22f6ca4daa905bee6449165fee/artifacts
+end_time: 1741830787110
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8b353e22f6ca4daa905bee6449165fee
+run_name: resilient-gull-182
+run_uuid: 8b353e22f6ca4daa905bee6449165fee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741830785798
+status: 3
+tags: []
+user_id: rospel

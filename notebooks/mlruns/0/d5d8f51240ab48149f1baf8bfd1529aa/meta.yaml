@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rospel/Desktop/prueba_tecnica_finaipro/nvidia_stock_prediction/notebooks/mlruns/0/d5d8f51240ab48149f1baf8bfd1529aa/artifacts
+end_time: 1741831995286
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d5d8f51240ab48149f1baf8bfd1529aa
+run_name: mercurial-boar-522
+run_uuid: d5d8f51240ab48149f1baf8bfd1529aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741831995281
+status: 3
+tags: []
+user_id: rospel

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rospel/Desktop/prueba_tecnica_finaipro/nvidia_stock_prediction/notebooks/mlruns/0/ce8684e64aa348e48285c9802ac00ec8/artifacts
+end_time: 1741831890939
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ce8684e64aa348e48285c9802ac00ec8
+run_name: salty-frog-179
+run_uuid: ce8684e64aa348e48285c9802ac00ec8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741831890934
+status: 3
+tags: []
+user_id: rospel

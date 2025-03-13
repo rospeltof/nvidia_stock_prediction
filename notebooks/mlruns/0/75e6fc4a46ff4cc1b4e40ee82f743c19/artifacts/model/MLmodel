@@ -1,0 +1,47 @@
+artifact_path: model
+flavors:
+  lightgbm:
+    code: null
+    data: model.pkl
+    lgb_version: 4.3.0
+    model_class: lightgbm.sklearn.LGBMRegressor
+  python_function:
+    data: model.pkl
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.lightgbm
+    python_version: 3.11.9
+is_signature_from_type_hint: false
+mlflow_version: 2.20.3
+model_size_bytes: 106595
+model_uuid: b566797862b3427eaa48635ffa8cb6d1
+run_id: 75e6fc4a46ff4cc1b4e40ee82f743c19
+saved_input_example_info:
+  artifact_path: input_example.json
+  pandas_orient: split
+  serving_input_path: serving_input_example.json
+  type: dataframe
+signature:
+  inputs: '[{"type": "double", "name": "Close_NVDA", "required": true}, {"type": "double",
+    "name": "Close_QQQ", "required": true}, {"type": "double", "name": "Close_^VIX",
+    "required": true}, {"type": "double", "name": "Volume_NVDA", "required": true},
+    {"type": "double", "name": "Close_SMH", "required": true}, {"type": "double",
+    "name": "Close_SOXX", "required": true}, {"type": "double", "name": "Close_XSD",
+    "required": true}, {"type": "double", "name": "Close_^DJI", "required": true},
+    {"type": "double", "name": "Close_^GSPC", "required": true}, {"type": "double",
+    "name": "Close_^IXIC", "required": true}, {"type": "double", "name": "Volume_QQQ",
+    "required": true}, {"type": "double", "name": "Volume_SMH", "required": true},
+    {"type": "double", "name": "Volume_SOXX", "required": true}, {"type": "double",
+    "name": "Volume_XSD", "required": true}, {"type": "double", "name": "Volume_^DJI",
+    "required": true}, {"type": "double", "name": "Volume_^GSPC", "required": true},
+    {"type": "double", "name": "Volume_^IXIC", "required": true}, {"type": "double",
+    "name": "rsi", "required": true}, {"type": "double", "name": "macd", "required":
+    true}, {"type": "double", "name": "macd_diff", "required": true}, {"type": "double",
+    "name": "stoch_k", "required": true}, {"type": "double", "name": "stoch_d", "required":
+    true}, {"type": "long", "name": "Month", "required": true}, {"type": "long", "name":
+    "Dayofweek", "required": true}]'
+  outputs: '[{"type": "double", "required": true}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2025-03-13 01:56:38.437850'

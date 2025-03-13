@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rospel/Desktop/prueba_tecnica_finaipro/nvidia_stock_prediction/notebooks/mlruns/0/aec25b9b483c40538620e57bba7a6b06/artifacts
+end_time: 1741830988500
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: aec25b9b483c40538620e57bba7a6b06
+run_name: worried-ray-85
+run_uuid: aec25b9b483c40538620e57bba7a6b06
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741830987193
+status: 3
+tags: []
+user_id: rospel

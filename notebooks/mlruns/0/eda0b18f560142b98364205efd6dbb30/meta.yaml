@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rospel/Desktop/prueba_tecnica_finaipro/nvidia_stock_prediction/notebooks/mlruns/0/eda0b18f560142b98364205efd6dbb30/artifacts
+end_time: 1741834621821
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eda0b18f560142b98364205efd6dbb30
+run_name: sincere-finch-205
+run_uuid: eda0b18f560142b98364205efd6dbb30
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741834621815
+status: 3
+tags: []
+user_id: rospel

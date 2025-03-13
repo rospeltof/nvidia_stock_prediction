@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rospel/Desktop/prueba_tecnica_finaipro/nvidia_stock_prediction/notebooks/mlruns/0/e346a1910c6b466080748b24e8698920/artifacts
+end_time: 1741836336709
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e346a1910c6b466080748b24e8698920
+run_name: honorable-zebra-711
+run_uuid: e346a1910c6b466080748b24e8698920
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741836336703
+status: 3
+tags: []
+user_id: rospel

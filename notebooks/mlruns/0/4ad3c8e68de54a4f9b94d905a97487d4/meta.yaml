@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rospel/Desktop/prueba_tecnica_finaipro/nvidia_stock_prediction/notebooks/mlruns/0/4ad3c8e68de54a4f9b94d905a97487d4/artifacts
+end_time: 1741831016768
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4ad3c8e68de54a4f9b94d905a97487d4
+run_name: carefree-jay-184
+run_uuid: 4ad3c8e68de54a4f9b94d905a97487d4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741831015456
+status: 3
+tags: []
+user_id: rospel

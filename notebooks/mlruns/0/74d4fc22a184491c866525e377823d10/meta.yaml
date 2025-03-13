@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rospel/Desktop/prueba_tecnica_finaipro/nvidia_stock_prediction/notebooks/mlruns/0/74d4fc22a184491c866525e377823d10/artifacts
+end_time: 1741835613999
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 74d4fc22a184491c866525e377823d10
+run_name: fortunate-calf-761
+run_uuid: 74d4fc22a184491c866525e377823d10
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741835613992
+status: 3
+tags: []
+user_id: rospel

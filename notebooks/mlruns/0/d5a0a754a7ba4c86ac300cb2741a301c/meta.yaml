@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rospel/Desktop/prueba_tecnica_finaipro/nvidia_stock_prediction/notebooks/mlruns/0/d5a0a754a7ba4c86ac300cb2741a301c/artifacts
+end_time: 1741835312965
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d5a0a754a7ba4c86ac300cb2741a301c
+run_name: mercurial-ant-56
+run_uuid: d5a0a754a7ba4c86ac300cb2741a301c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741835312959
+status: 3
+tags: []
+user_id: rospel

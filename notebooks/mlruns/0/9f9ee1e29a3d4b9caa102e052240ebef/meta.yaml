@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rospel/Desktop/prueba_tecnica_finaipro/nvidia_stock_prediction/notebooks/mlruns/0/9f9ee1e29a3d4b9caa102e052240ebef/artifacts
+end_time: 1741830761092
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9f9ee1e29a3d4b9caa102e052240ebef
+run_name: dashing-perch-502
+run_uuid: 9f9ee1e29a3d4b9caa102e052240ebef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741830759803
+status: 3
+tags: []
+user_id: rospel

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rospel/Desktop/prueba_tecnica_finaipro/nvidia_stock_prediction/notebooks/mlruns/0/b4375c0710a34477939e4e82944c4fb9/artifacts
+end_time: 1741830982753
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b4375c0710a34477939e4e82944c4fb9
+run_name: merciful-sow-922
+run_uuid: b4375c0710a34477939e4e82944c4fb9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741830981473
+status: 3
+tags: []
+user_id: rospel
