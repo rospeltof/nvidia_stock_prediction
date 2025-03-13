@@ -55,7 +55,7 @@ Las principales dependencias del proyecto son:
     mlflow
     catboost (si se utiliza en otros experimentos, opcional)
 
-Puedes instalar todas las dependencias utilizando el archivo requirements.txt. Para generarlo de forma minimalista (o editarlo manualmente), un ejemplo es:
+Las dependencias estan en  requirements.txt.
 
 numpy>=1.21.0
 pandas>=1.3.0
@@ -64,8 +64,8 @@ ta>=0.10.2
 scikit-learn>=1.0.2
 mlflow>=2.3.0
 
-Guarda este archivo en la raíz del proyecto.
-Pipeline de Preprocesamiento e Inferencia
+
+## Pipeline de Preprocesamiento e Inferencia
 
 El pipeline de inferencia está implementado en el archivo src/run_pipeline.py e incluye:
 
