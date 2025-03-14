@@ -40,4 +40,40 @@ nvidia_stock_prediction/
 │   └── predicciones/  # Resultados de las predicciones
 └── src/
     └── run_pipeline.py    # Pipeline completo (descarga, TA, predicción)
+```
+
+## Requerimientos
+
+Las principales dependencias del proyecto son:
+
+- Python 3.9 (u otra versión compatible)
+- numpy
+- pandas
+- yfinance
+- ta
+- scikit-learn
+- mlflow
+- catboost (*opcional*)
+
+Todas las dependencias se encuentran especificadas en `requirements.txt`:
+
+```bash
+numpy>=1.21.0
+pandas>=1.3.0
+yfinance>=0.2.20
+ta>=0.10.2
+scikit-learn>=1.0.2
+mlflow>=2.3.0
+```
+## Crear en docker y hacer inferencia
+1. Crear el contenedor
+   
+```bash
+docker build -t nvidia_stock_prediction .
+```
+2. Correr el archivo de inferencia
+   
+```bash
+docker run -v $(pwd)/mlruns:/app/mlruns nvidia_stock_prediction python src/run_pipeline.py
+```
 
