@@ -96,31 +96,6 @@ Para realizar las predicciones (inferir el precio de cierre de mañana), sigue e
 
     Revisa el archivo CSV generado en la carpeta data/predicciones/ para ver los resultados, que incluirán la fecha de predicción y el precio predicho para el día siguiente.
 
-Uso de Docker
-
-El proyecto se ha dockerizado para facilitar su despliegue y ejecución reproducible.
-Dockerfile
-
-El Dockerfile se encuentra en la raíz del proyecto y tiene el siguiente contenido:
-
-# Usa una imagen base ligera de Python
-FROM python:3.9-slim
-
-# Establece el directorio de trabajo en /app
-WORKDIR /app
-
-# Copia el archivo de requerimientos e instálalo
-COPY requirements.txt .
-RUN pip install --upgrade pip && pip install -r requirements.txt
-
-# Copia todo el proyecto al contenedor
-COPY . .
-
-# Exponer el puerto 5000 (opcional, para MLflow UI)
-EXPOSE 5000
-
-# Comando por defecto: ejecutar el script de inferencia
-CMD ["python", "src/run_pipeline.py"]
 
 Construir y Ejecutar la Imagen Docker
 
